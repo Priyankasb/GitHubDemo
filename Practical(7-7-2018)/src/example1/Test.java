@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		System.out.println("Testgithub");	
 		A a = new A();
 		System.out.println(a.x);	//10
 		System.out.println(a.y);	//20
